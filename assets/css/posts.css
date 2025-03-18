@@ -1,0 +1,36 @@
+.post-view {
+    background-color: var(--bg-secondary);
+    padding: 20px;
+    margin: 2.5em;
+    text-align: center;
+}
+
+.view-title {
+    font-size: 40px;
+}
+
+.view-date {
+    padding: 20px;
+}
+
+.view-img {
+    padding: 20px;
+    border: 1px solid #333;
+}
+
+.view-content {
+    padding: 20px;
+    text-align: justify;
+    font-size: 20px;
+}
+
+.comments {
+    border: 1px solid #fff;
+    background-color: var(--bg-color);
+}
+
+.comment {
+    padding: 20px;
+    border: 2px solid #fff;
+    text-align: justify;
+}
